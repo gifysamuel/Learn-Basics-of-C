@@ -9,7 +9,6 @@ int main() {
     int opn;
     float dep;
     float bal=0.0;
-     float withdraw;
 
 
     

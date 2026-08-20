@@ -14,7 +14,7 @@ int main() {
     // This helps produce a different sequence of numbers each time the program runs.
     srand(time(NULL));
 
-    // Set the minimum value for our desired random-number range.
+    // Set the minimum value for our desired random-number range.   
     int min = 50;
 
     // Set the maximum value for our desired random-number range.
